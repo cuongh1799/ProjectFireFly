@@ -1,0 +1,4 @@
+repository "ProjectFireFly@cuongcuongkekeke@cloud"
+  path "/"
+    br "/main"
+    co "/main"
